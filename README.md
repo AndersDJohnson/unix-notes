@@ -4,6 +4,7 @@ UNIX notes (Linux, Mac).
 ## See also
 * [AndersDJohnson/mac-notes][mac-notes]
 * [AndersDJohnson/windows-notes][windows-notes]
+* [AndersDJohnson/dotfiles](https://github.com/AndersDJohnson/dotfiles)
 
 ## Process on port?
 ```
