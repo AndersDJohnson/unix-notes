@@ -1,7 +1,7 @@
 # unix-notes
 UNIX notes (Linux, Mac).
 
-## See also
+## See Also
 * [AndersDJohnson/mac-notes][mac-notes]
 * [AndersDJohnson/windows-notes][windows-notes]
 * [AndersDJohnson/dotfiles](https://github.com/AndersDJohnson/dotfiles)
