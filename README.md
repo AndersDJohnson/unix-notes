@@ -11,9 +11,9 @@ UNIX notes (Linux, Mac).
 lsof -i :3000
 ```
 
-## Loops
+## Shell
 
-### Files
+### Loop over files
 
 ```
 for FILE in *.jpg; do
