@@ -11,5 +11,31 @@ UNIX notes (Linux, Mac).
 lsof -i :3000
 ```
 
+## Loops
+
+### Files
+
+```
+for FILE in *.jpg; do
+  # ...
+done
+```
+
+```
+for FILE in `find . -type f -name "*.txt"`; do
+  # ...
+done
+```
+
+```
+while IFS= read -r file; do
+  # ...
+done < "files.txt"
+```
+
+http://www.cyberciti.biz/faq/bash-loop-over-file/
+
+
+
 [mac-notes]: https://github.com/AndersDJohnson/mac-notes
 [windows-notes]: https://github.com/AndersDJohnson/windows-notes
